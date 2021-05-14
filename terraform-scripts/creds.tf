@@ -1,7 +1,1 @@
-provider "aws" {
 
-access_key = "ASIAQQPLQ2HYAZ3DEUNH"
-secret_key = "m4Er0B5HzDhkieIh0bzAsaYZqChhUevOijIqcbJ9"
-token = "FwoGZXIvYXdzEHwaDI6FdnZf/zhrH0XoLyK5AWbnv3EFVeKZDvLqIZMe/P9cpU/X27ZqngzUH1wBzGSM9cYVdKZ3TOcdOhw2yjhezY6CRAcEXhaQluZmvY4YvdSa2Os6hQoFYegs4AL3kEhlr0AaclJuoA8NLHwnDNTHJWuAsUCiduqdz5WVVeQFba1hojhcdhy5JevOq3E7DbixROCcMwsjLnyepCdozODigJaVt6ZWbzMlKsFUf5UMCSvLqrXdu3SRkON5mWVrQbOSXt8M6PVb7mmzKOCJ+4QGMi1lv8Qc8jKbE/5uOGGzg9b7x44pe2R5iEYkuQMVZeYKMhWsjJnQTl5wl+ze164="
-region = "us-east-1"
-}
